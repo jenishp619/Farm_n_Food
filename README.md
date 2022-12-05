@@ -12,3 +12,4 @@ The objective of the project is to connect local farmers with consumers directly
 - Run the command `python manage.py migrate` to Migrate
 - Run the command `python manage.py runserver` to Migrate
 - The app will run on `localhost`
+TechStack- Python- Django Framework, HTML, CSS, Javascript
